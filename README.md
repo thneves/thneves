@@ -1,5 +1,5 @@
 
-<i class="ri-terminal-box-line"></i>
+
 ###  Hi there, I'm Thales 👋
 
 <!--
@@ -13,8 +13,13 @@
 - 👯 I’m looking to collaborate on open source projects ...
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thneves)](https://github.com/thneves/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thneves&layout=compact)](https://github.com/thneves/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thneves&show_icons=true&theme=synthwave)](https://github.com/thneves/github-readme-stats)
+
+
+![Thales's github stats](https://github-readme-stats.vercel.app/api?username=thaless&show_icons=true&theme=synthwave)
+
+
 
 
