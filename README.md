@@ -1,6 +1,6 @@
 
-
-### <i class="ri-terminal-box-line"></i> Hi there, I'm Thales 👋
+<i class="ri-terminal-box-line"></i>
+###  Hi there, I'm Thales 👋
 
 <!--
 **thneves/thneves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
