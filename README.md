@@ -14,9 +14,9 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thneves&show_icons=true&theme=dracula)](https://github.com/thneves/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thneves&show_icons=true&theme=dracula)](https://github.com/thneves/github-readme-stats) ![Thales's github stats](https://github-readme-stats.vercel.app/api?username=thneves&show_icons=true&theme=dracula)
 
-![Thales's github stats](https://github-readme-stats.vercel.app/api?username=thneves&show_icons=true&theme=dracula)
+
 
 
 
