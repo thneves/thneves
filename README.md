@@ -13,3 +13,6 @@ api/top-langs?username=anuraghazra
 - 👯 I’m looking to collaborate on open source projects ...
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thneves)](https://github.com/thneves/github-readme-stats)
+
+
