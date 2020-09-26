@@ -15,4 +15,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thneves)](https://github.com/thneves/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thneves&layout=compact)](https://github.com/thneves/github-readme-stats)
+
 
